@@ -15,3 +15,4 @@ Habilidades:
 
 📫 Você pode me encontrar no [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/giovana-de-souza-1bb446278/)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidesouzagiovana=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
