@@ -16,9 +16,6 @@ Habilidades:
 
 📫 Você pode me encontrar no [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/giovana-de-souza-1bb446278/)
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=desouzagiovana&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=desouzagiovana&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desouzagiovana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=desouzagiovana)](https://github.com/ryo-ma/github-profile-trophy)
+ ![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=desouzagiovana&show_icons=true&theme=default#gh-light-mode-only) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desouzagiovana&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=desouzagiovana)](https://github.com/ryo-ma/github-profile-trophy)
