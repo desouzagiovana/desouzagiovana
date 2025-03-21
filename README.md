@@ -1,5 +1,5 @@
 <span style="font-size: xx-large;">**Olá! Meu nome é Giovana**</span> .
-
+![Gif](https://i.gifer.com/4Jno.gif).
 Cursando Sistemas de Informação na UNIMONTES📚💻
 
 Aluna de desenvolvimento na CUBOS ACADEMY👩‍💻💡
