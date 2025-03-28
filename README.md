@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá! Eu sou a Giovana! 🚀</h1>
+<h1 align="center">✨ Olá! Eu sou a Gio! </h1>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/desouzagiovana/desouzagiovana/output/github-contribution-grid-snake-dark.svg">
